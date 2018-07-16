@@ -1,0 +1,22 @@
+Paris1:
+  name: Sebasitan's
+  github_nickname: 'ssaunier'
+  owner: Sebasitan
+  address: PARIS, FRANCE
+  background: paris
+  description: Cool flat
+Paris2:
+  name: Boris's
+  github_nickname: 'Papillard'
+  owner: Boris
+  address: PARIS, FRANCE
+  background: tokyo
+  description: Cool flat
+London:
+  name: Romain's
+  owner: Romain
+  github_nickname: 'monsieurpaillard'
+  background: london
+  address: LONDON, UK
+  description: Cool flat
+
